@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+title: "SPRITZ: Stiffness Prediction via Resistance Inversion in Through-thickness Z-axis"
+message: "If you use this software or the accompanying datasets, please cite it using the metadata from this file."
+type: software
+authors:
+  - family-names: "Pontefisso"
+    given-names: "Alessandro"
+    orcid: "https://orcid.org/0000-0001-7898-831X"
+    affiliation: "Department of Management and Engineering, University of Padua"
+  - family-names: "Guidolin"
+    given-names: "Mattia"
+    orcid: "https://orcid.org/0000-0002-9778-8038"
+    affiliation: "Department of Management and Engineering, University of Padua"
+repository-code: "https://github.com/ap087/SPRITZ"
+license: Apache-2.0
+# version: "1.0.0"
+# date-released: "YYYY-MM-DD"
+# doi: "10.5281/zenodo.XXXXXXX"
